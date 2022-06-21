@@ -1,5 +1,12 @@
 # Toollib-simulator
-***description***: This project build a complex simulation of tools library system that has 9 main categories and each has unique tool types for members to borrow. All the transactions/actions/updates from “staff” and “member” are systematically recorded by the application. The user can login/register to the application to actually use the system.
+***Description***: This project build a complex simulation of tools library system that has 9 main categories and each has unique tool types for members to borrow. All the transactions/actions/updates from “staff” and “member” are systematically recorded by the application. The user can login to the application to actually use the system. 
+
+Only ***staff*** with 
+```
+account name: staff  
+password: today123 
+```
+can create new user accounts and new tools to borrow.
 
 ## Installation guide
 
@@ -19,5 +26,12 @@ dotnet run
 ```
 2. From now on you can interface through the application using terminal. Enjoy!
 ![demo](https://github.com/jtsdaniel/Toollib-simulator/blob/main/Screenshot%202022-06-22%20013036.png?raw=true)
+
+3. When creating new account as a staff. That account will have account details following this format:
+```
+account name = entered first name + entered last name (no space)
+password = entered Pin
+
+```
 
 For more details about the interface. Please have a look on this [report](https://github.com/jtsdaniel/Toollib-simulator/blob/main/REPORT.pdf) which has a test plans and used algorithm analysis.
