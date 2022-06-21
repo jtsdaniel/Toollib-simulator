@@ -1,0 +1,40 @@
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment 301 final project\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

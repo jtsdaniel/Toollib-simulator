@@ -1,0 +1,16 @@
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.exe
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.deps.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\bin\Debug\net5.0\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.csprojAssemblyReference.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.pdb
+D:\QUT student\BACH 1\SEM1\CAB301\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache

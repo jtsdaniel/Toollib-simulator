@@ -1,0 +1,15 @@
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\net6.0\Tool Library.exe
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\net6.0\Tool Library.deps.json
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\net6.0\Tool Library.runtimeconfig.json
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\net6.0\Tool Library.dll
+D:\QUT Student\IT Projects\Tool Library\bin\Debug\net6.0\Tool Library.pdb
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.csproj.AssemblyReference.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.AssemblyInfoInputs.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.AssemblyInfo.cs
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.csproj.CoreCompileInputs.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.dll
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\refint\Tool Library.dll
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.pdb
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\Tool Library.genruntimeconfig.cache
+D:\QUT Student\IT Projects\Tool Library\obj\Debug\net6.0\ref\Tool Library.dll
