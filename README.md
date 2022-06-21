@@ -18,4 +18,4 @@ git clone https://github.com/jtsdaniel/Toollib-simulator.git
 dotnet run
 ```
 2. From now on you can interface through the application using terminal. Enjoy!
-![demo]()
+![demo](https://github.com/jtsdaniel/Toollib-simulator/blob/main/Screenshot%202022-06-22%20013036.png?raw=true)
