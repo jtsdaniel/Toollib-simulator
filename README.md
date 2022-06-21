@@ -34,6 +34,7 @@ password = entered Pin
 
 ```
 For example in below input scenario:
+
 ![example](https://github.com/jtsdaniel/Toollib-simulator/blob/main/demo%20creating%20new%20account.png?raw=true)
 
 Created user account will have details like:
