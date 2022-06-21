@@ -27,4 +27,11 @@ dotnet run
 2. From now on you can interface through the application using terminal. Enjoy!
 ![demo](https://github.com/jtsdaniel/Toollib-simulator/blob/main/Screenshot%202022-06-22%20013036.png?raw=true)
 
+3. When creating new account as a staff. That account will have account details following this format:
+```
+account name = entered first name + entered last name (no space)
+password = entered Pin
+
+```
+
 For more details about the interface. Please have a look on this [report](https://github.com/jtsdaniel/Toollib-simulator/blob/main/REPORT.pdf) which has a test plans and used algorithm analysis.
