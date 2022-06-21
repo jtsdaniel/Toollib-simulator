@@ -33,5 +33,13 @@ account name = entered first name + entered last name (no space)
 password = entered Pin
 
 ```
+For example in below input scenario:
+![example](https://github.com/jtsdaniel/Toollib-simulator/blob/main/demo%20creating%20new%20account.png?raw=true)
+
+Created user account will have details like:
+```
+account name: testaccount
+password: 1234
+```
 
 For more details about the interface. Please have a look on this [report](https://github.com/jtsdaniel/Toollib-simulator/blob/main/REPORT.pdf) which has a test plans and used algorithm analysis.
