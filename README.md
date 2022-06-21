@@ -3,7 +3,7 @@
 
 Only ***staff*** with 
 ```
-account name: Staff  
+account name: staff  
 password: today123 
 ```
 can create new user accounts and new tools to borrow.
