@@ -19,3 +19,5 @@ dotnet run
 ```
 2. From now on you can interface through the application using terminal. Enjoy!
 ![demo](https://github.com/jtsdaniel/Toollib-simulator/blob/main/Screenshot%202022-06-22%20013036.png?raw=true)
+
+For more details about the interface. Please have a look on this [report](https://github.com/jtsdaniel/Toollib-simulator/blob/main/REPORT.pdf) which has a test plans and used algorithm analysis.
