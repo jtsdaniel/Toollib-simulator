@@ -1,5 +1,12 @@
 # Toollib-simulator
-***Description***: This project build a complex simulation of tools library system that has 9 main categories and each has unique tool types for members to borrow. All the transactions/actions/updates from “staff” and “member” are systematically recorded by the application. The user can login to the application to actually use the system. Only ***staff*** with account name: ***Staff*** and password: ***today123*** can create new user accounts and new tools to borrow.
+***Description***: This project build a complex simulation of tools library system that has 9 main categories and each has unique tool types for members to borrow. All the transactions/actions/updates from “staff” and “member” are systematically recorded by the application. The user can login to the application to actually use the system. 
+
+Only ***staff*** with 
+```
+account name: ***Staff***  
+password: ***today123*** 
+```
+can create new user accounts and new tools to borrow.
 
 ## Installation guide
 
