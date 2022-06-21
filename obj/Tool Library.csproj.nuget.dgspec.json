@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\QUT Student\\IT Projects\\Tool Library\\Tool Library.csproj": {}
+    "D:\\QUT Student\\IT Projects\\Toollib-simulator\\Tool Library.csproj": {}
   },
   "projects": {
-    "D:\\QUT Student\\IT Projects\\Tool Library\\Tool Library.csproj": {
+    "D:\\QUT Student\\IT Projects\\Toollib-simulator\\Tool Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QUT Student\\IT Projects\\Tool Library\\Tool Library.csproj",
+        "projectUniqueName": "D:\\QUT Student\\IT Projects\\Toollib-simulator\\Tool Library.csproj",
         "projectName": "Tool Library",
-        "projectPath": "D:\\QUT Student\\IT Projects\\Tool Library\\Tool Library.csproj",
+        "projectPath": "D:\\QUT Student\\IT Projects\\Toollib-simulator\\Tool Library.csproj",
         "packagesPath": "C:\\Users\\pduy0\\.nuget\\packages\\",
-        "outputPath": "D:\\QUT Student\\IT Projects\\Tool Library\\obj\\",
+        "outputPath": "D:\\QUT Student\\IT Projects\\Toollib-simulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pduy0\\AppData\\Roaming\\NuGet\\NuGet.Config"
